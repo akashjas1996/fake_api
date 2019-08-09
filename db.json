@@ -1,8 +1,13 @@
-[
-  {
-    "id": 1,
-    "name": "Wallmart",
-    "color1": "#fafafa",
-    "color2": "#dadada"
+{
+  "company": [
+    {
+      "id": 1,
+      "name": "Wallmart",
+      "color1": "#fafafa",
+      "color2": "#dadada"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
